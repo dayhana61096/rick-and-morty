@@ -1,0 +1,39 @@
+.warning {
+  color: red
+}
+
+.danger {
+  font-size: 10px;
+  color: white;
+  margin-left: 10em;
+}
+
+.fondof {
+    margin: 15px;
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    }
+
+
+.campos {
+  padding: 5px;
+}
+
+.entrada{
+  display: block;
+  padding: 5px;
+}
+
+.boton{
+  width: 40%;
+  margin-left: 15%;
+  background-color: rgb(211, 179, 243);
+  border-radius: 10px;
+}
+
+.titulo{
+  margin-left: 15%;
+  color: black;
+}
